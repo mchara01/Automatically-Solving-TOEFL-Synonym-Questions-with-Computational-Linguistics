@@ -3,6 +3,7 @@
 One type of question faced by TOEFL test takers is the "Synonym Question", where students are asked to select the synonym of a word from a list of options.
 
 For example:
+
 Q1. vexed  (Answer: (a) annoyed)
 * a. annoyed
 * b. amused
