@@ -4,9 +4,13 @@ One type of question faced by TOEFL test takers is the "Synonym Question", where
 
 For example:
 1. vexed  (Answer: (a) annoyed)
+
 ...a. annoyed
+
 ...b. amused
+
 ...c. frightened
+
 ...d. excited
   
 In TOEFL.java I designed an intelligent system that learns to answer such questions. The learning / training of the system will be done by processing a large body of English text (ie without the use of dictionaries).
