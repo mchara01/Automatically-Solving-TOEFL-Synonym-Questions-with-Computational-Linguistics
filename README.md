@@ -19,8 +19,11 @@ To answer the TOEFL question, the system must calculate the semantic similarity 
 
 ### Usage
 Compile:
+
 `javac -classpath .:stdlib.jar TOEFL.java`
+
 Execute:
+
 `java -classpath .:stdlib.jar TOEFL <list_of_training_files> <TOEFL_test_file>`
 
 Argument <TOEFL_test_file> is a file containing a list of TOEFL question and there respective list of synonyms to choose from. The program will try to answer these questions for you after it has been trained with the <list_of_training_files>, given also as arguments. For test file you can use the TestFile.txt provided and for training the files in the training folder can be used. The output of the program can be found at out-text.
